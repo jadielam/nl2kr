@@ -11,7 +11,7 @@ import nl2kr.datastructures.FreeVariableSet;
  * Represents part B of the definition of a lambda term, aka: if M and N are lambda terms
  * then (MN) is also a lambda term.
  * @author jadiel
- *
+ *This is a test for pushing within eclipse
  */
 public class BinaryLambdaTerm extends LambdaTerm {
 
